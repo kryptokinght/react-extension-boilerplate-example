@@ -10,3 +10,5 @@ Read more about it here: https://github.com/aashutoshrathi/Insta-Downloader-Exte
 ## [:rocket: Bootstrapped using React Extension Boilerplate for Chrome and Firefox](https://github.com/kryptokinght/react-extension-boilerplate) 
 
 </p>
+
+### For installation and development instructions [visit here](https://github.com/kryptokinght/react-extension-boilerplate/blob/master/README.md#installation-checkered_flag).
